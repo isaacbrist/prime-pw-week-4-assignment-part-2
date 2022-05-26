@@ -1,0 +1,29 @@
+header {
+  background-color: grey;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 0px;
+}
+
+.info {
+  text-align: center;
+  margin: auto;
+  border-style: groove;
+  background-color: #1CAFE3;
+  color: #E3501C;
+
+}
+
+.body {
+  background-image: url("https://di-uploads-pod1.dealerinspire.com/richardshonda/uploads/2016/07/2016-Honda-CRV-display.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+  border-style: solid;
+}
+
+.carDes {
+  background-color: #00FF70;
+  color: #FF008F;
+}
